@@ -5,5 +5,6 @@ while True:
         break
     if userInput.isdigit() == False:
         print("Please input a positive integer")
-
-    
+    else:
+        inventory += int(userInput)
+        print(inventory)
