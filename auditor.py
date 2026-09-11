@@ -7,4 +7,6 @@ while True:
         print("Please input a positive integer")
     else:
         inventory += int(userInput)
-        print(inventory)
+    if inventory > 500: 
+        print ("Overstock") 
+        break
