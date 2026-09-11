@@ -3,3 +3,7 @@ while True:
     userInput = input("Enter a stock quantity or type 'quit' to exit: ")
     if userInput == "quit":
         break
+    if userInput.isdigit() == False:
+        print("Please input a positive integer")
+
+    
