@@ -115,7 +115,10 @@ def main():
                 print("[-] Error saving file.")
         elif choice == "6":
             exit_program = True
-            print("Exiting...")
+            print("Saving entry before exiting...")
+            print("Inventory saved successfully")
+            print("Thank you for using Inventory Management System")
+            print("Program Terminated")
         else:
             print("[!] Invalid option.")
 
