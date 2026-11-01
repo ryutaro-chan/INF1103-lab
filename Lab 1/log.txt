@@ -1,0 +1,29 @@
+commit 40c418d8b42b9349e28408dd3348b2b7143ba2a4
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 17:03:36 2026 +0800
+
+    Added condition if age>40 and  category is fun
+
+commit dd6c9d94f4ef1cc784e4fef6dfb6ec9c286547da
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:51:25 2026 +0800
+
+    Added username, age and category
+
+commit a4330dbfdf055ae55390d6a6b198ed675e2a8452
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:43:18 2026 +0800
+
+    Change in followers count
+
+commit 2249779ffd01338dbf15dfc32313123458b76510
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:29:26 2026 +0800
+
+    Added username, bio and followers
+
+commit 44b2f32af94afbb0716a3299d0a139f31bf76442
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:20:14 2026 +0800
+
+    First post
