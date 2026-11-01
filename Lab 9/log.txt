@@ -1,0 +1,113 @@
+commit 11dbf2e2fbe368486dc56e454b0c01b905ca9da9
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Sun Nov 1 12:30:49 2026 +0800
+
+    add and sync all lab files
+
+commit eaf2327c2d823d85ee6680479eda6ef5e990dee4
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Sun Nov 1 12:26:32 2026 +0800
+
+    Lab 7 Completed
+
+commit a9213ecb7f638aafabc19770d7c0b7f70dbbe833
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Oct 2 14:44:20 2026 +0800
+
+    json file
+
+commit b7a50d06ef716443ebae773f8e07267237a67f25
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 17:03:36 2026 +0800
+
+    Added condition if age>40 and  category is fun
+
+commit 2a4077595f46560e9ff5170526d59d60011d477d
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:51:25 2026 +0800
+
+    Added username, age and category
+
+commit f568731983ab5ca763f413b8331ef1bf69fd2549
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:43:18 2026 +0800
+
+    Change in followers count
+
+commit 5172921d4a5762caea5f95ca877e603bdf415ad0
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:29:26 2026 +0800
+
+    Added username, bio and followers
+
+commit e17e08a7fbf07dd8e53c29243adb61cbbd2c3413
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 4 16:20:14 2026 +0800
+
+    First post
+
+commit 65346415bc63824e5fb463ca8c0abe54dee8e314
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Oct 2 15:07:00 2026 +0800
+
+    changes to option 6
+
+commit 1d317b7bf24386594bb46f365595b1cf964b66a2
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Oct 2 14:52:17 2026 +0800
+
+    final code
+
+commit 0408a9ce63cd833283fc55dbcbdc9b151cdf5eb3
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Oct 2 14:47:47 2026 +0800
+
+    initial inventory.json structure
+
+commit 81ea21701c9c472a8ae7d14bbebadb773e7784a2
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Sat Sep 19 17:12:01 2026 +0800
+
+    Add specific functions for tax
+
+commit 782d9e3eb26aed6aaa16588c2b91e58f153d1529
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 18 17:53:20 2026 +0800
+
+    lab 3
+
+commit f28c070845a3afcebe141cabb00040850530ccd0
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 17:04:37 2026 +0800
+
+    Reporting
+
+commit 2a941ca7261e4638aa6b6768b0f32cf23a1fa080
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 16:53:42 2026 +0800
+
+    Trigger Overstock Alert
+
+commit ef00524dc9ce9189f2b7b1d1b9763801ed9518bc
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 16:45:52 2026 +0800
+
+    Manage state
+
+commit 704a14f5340b31ec69c5f9242b99ce3ae1af5c8b
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 16:33:39 2026 +0800
+
+    Handle Invalid input
+
+commit 5e6b6aef847b873e39f2dcd1b151c9a90f6c675a
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 15:41:28 2026 +0800
+
+    Requirement 1 user input, quit
+
+commit a659f4c7e775eb29053c679f43a3f7d7f6c3a419
+Author: Ryutaro Chan <ryutarochan8@gmail.com>
+Date:   Fri Sep 11 15:21:16 2026 +0800
+
+    first requirement initialising inventory
