@@ -1,0 +1,15 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Wireless Mouse",
+        "price": 15.0,
+        "quantity": 50,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "Supplies Corp",
+            "contact_email": "support@suppliescorp.com"
+        },
+        "type": "physical",
+        "weight": 0.5
+    }
+]
